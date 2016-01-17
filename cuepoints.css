@@ -8,11 +8,11 @@ videogular vg-cuepoints {
 
 videogular vg-cuepoints vg-cuepoint {
 	position: absolute;
-	top: -16px;
+	top: -9px;
 
 	display: block;
-	width: 2px;
-	height: 30px;
+	width: 3px;
+	height: 20px;
 
 	background-color: red;
 }
